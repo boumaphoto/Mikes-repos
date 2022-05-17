@@ -1,0 +1,12 @@
+.card{
+background-color: hsl(212, 45%, 89%);
+}
+
+.card-title{
+
+  color: hsl(218, 44%, 22%);  
+}
+
+.card-info{
+color: hsl(220, 15%, 55%);
+}
